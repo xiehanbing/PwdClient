@@ -1,0 +1,11 @@
+H:\Repository\PwdClient\obj\Debug\netcoreapp2.1\PwdClient.csprojAssemblyReference.cache
+H:\Repository\PwdClient\obj\Debug\netcoreapp2.1\PwdClient.csproj.CoreCompileInputs.cache
+H:\Repository\PwdClient\obj\Debug\netcoreapp2.1\PwdClient.AssemblyInfoInputs.cache
+H:\Repository\PwdClient\obj\Debug\netcoreapp2.1\PwdClient.AssemblyInfo.cs
+H:\Repository\PwdClient\bin\Debug\netcoreapp2.1\PwdClient.deps.json
+H:\Repository\PwdClient\bin\Debug\netcoreapp2.1\PwdClient.runtimeconfig.json
+H:\Repository\PwdClient\bin\Debug\netcoreapp2.1\PwdClient.runtimeconfig.dev.json
+H:\Repository\PwdClient\bin\Debug\netcoreapp2.1\PwdClient.dll
+H:\Repository\PwdClient\bin\Debug\netcoreapp2.1\PwdClient.pdb
+H:\Repository\PwdClient\obj\Debug\netcoreapp2.1\PwdClient.dll
+H:\Repository\PwdClient\obj\Debug\netcoreapp2.1\PwdClient.pdb
